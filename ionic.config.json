@@ -1,0 +1,8 @@
+{
+  "name": "the-daily-curation",
+  "app_id": "31068a86",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
