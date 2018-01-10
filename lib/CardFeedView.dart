@@ -11,6 +11,10 @@ class CardFeedView extends StatelessWidget {
     );
   }
 
+  getData() async{
+
+  }
+
   List<Widget> getCards() {
     List<Widget> cardList = [];
     for (var i = 0; i < 10; i++)
